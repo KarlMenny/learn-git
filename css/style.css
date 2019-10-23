@@ -1,5 +1,5 @@
 .box-set {
-	margin-top: 300px;
+	margin-top: 500px;
 	color: green;
 
 	background: #eaeaed;	
@@ -17,7 +17,7 @@
 	height: 100px;
 }
 .box-1 {
-	background: yellow;
+	background: red;
 	margin-bottom: 10px;
 }
 
