@@ -1,0 +1,36 @@
+.box-set {
+	margin-top: 100px;
+
+	background: #eaeaed;	
+	width: 300px;
+
+
+}
+
+
+.box {
+	
+	background: #2db34a;
+
+	height: 100px;
+}
+.box-1 {
+	background: yellow;
+	margin-bottom: 10px;
+}
+
+
+.box-2 {
+	margin-top: 20px;
+
+	background: red;
+
+}
+
+
+
+.box-3 {
+	background: green;
+
+}
+
